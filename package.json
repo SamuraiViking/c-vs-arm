@@ -13,7 +13,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "surge /Users/kevin/code/react/c-vs-arm/build hd.surge.sh"
   },
   "eslintConfig": {
     "extends": "react-app"
